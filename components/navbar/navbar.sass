@@ -1,0 +1,17 @@
+@import '../../css/default'
+
+.nav-item
+  margin: 0 20px
+
+
+.navbar-nav:last-child
+  display: flex
+  align-items: center
+  height: 100%
+
+  i
+    +transition(0.3s)
+    color: $grey
+    &:hover
+      +transition(0.3s)
+      color: $active

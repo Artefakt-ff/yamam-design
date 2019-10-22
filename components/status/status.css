@@ -1,0 +1,13 @@
+.status {
+  max-width: 20vw;
+}
+.status .status__image {
+  width: 100%;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+.status i {
+  margin-left: 10px;
+}
+
+/*# sourceMappingURL=status.css.map */
